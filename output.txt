@@ -1,0 +1,8 @@
+8
+provide two integers.
+2025
+Provide integers.
+Provide integers.
+Exponent can't be negative.
+9
+-1024
